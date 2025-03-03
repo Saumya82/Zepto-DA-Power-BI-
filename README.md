@@ -15,3 +15,4 @@ Excited to share my latest Power BI dashboard on Zepto Sales Analysis!📊
 ✅Top Category Sales: Grocery (32.21%) & Personal Care (27.51%)
 
 This project involved data cleaning, transformation, and visualization to derive meaningful insights for better decision-making..
+![image alt]([image_url](https://github.com/Saumya82/Zepto-DA-Power-BI-/blob/main/zepto.jpg?raw=true))
